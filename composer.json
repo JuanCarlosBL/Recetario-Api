@@ -1,0 +1,18 @@
+{
+    "name": "juanc/recetarioapi",
+    "description": "api",
+    "autoload": {
+        "psr-4": {
+            "Juanc\\Recetarioapi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JuanCarlosBL",
+            "email": "JuanCarlosBL@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "laravel/passport": "^11.8"
+    }
+}
